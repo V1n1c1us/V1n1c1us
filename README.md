@@ -3,6 +3,9 @@
 <!--Pleasure, I'm Cristiano Nunes, I've been passionate about technology since I was a child. I am graduated in Systems Analysis and Development by IFRN, Postgraduate course in Information Technology Management at FAVENI and I am a student in the Software Development course at Trybe. The Trybe program has more than 1,500 hours of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies and Soft Skills.-->
 
 About me:
+
+Fullstack Developer at HostGator Latam with two foot on Frontend :)
+
 - 👨🏽‍💻 Tech lover.
 - ⚡ Proactive.
 
