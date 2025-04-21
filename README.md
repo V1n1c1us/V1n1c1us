@@ -3,7 +3,7 @@
 
 About me:
 
-Fullstack Developer at Serasa Experain with two foot on Frontend :)
+Fullstack Developer at Serasa Experian with two foot on Frontend :)
 
 - 👨🏽‍💻 Tech lover.
 - ⚡ Proactive.
